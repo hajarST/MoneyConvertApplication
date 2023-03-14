@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoneyConvertApplication</string>
+
+    <string-array name="units">
+        <item>MAD</item>
+        <item>Dollar</item>
+        <item>Euro</item>
+    </string-array>
+
+</resources>
